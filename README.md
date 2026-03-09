@@ -1,7 +1,6 @@
 # Focus Defender
 
 ![Unity](https://img.shields.io/badge/Unity-2021.3%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-PC-orange)
 
 An arcade-style action game that gamifies the struggle to maintain focus while studying. Defend your study session by shooting down incoming digital distractions before they reach your desk!
@@ -100,7 +99,7 @@ Assets/
 
 ## 🎨 Assets & Credits
 
-- **3D Models**: Custom study room setup with desk and laptop
+- **3D Models**: Boy character from [Mixamo](https://www.mixamo.com/), chair and laptop from [OpenGameArt.org](https://opengameart.org/)
 - **Audio**: GunShort.wav (shooting) and Pop.mp3 (destruction) sound effects from [Mixkit.co](https://mixkit.co/)
 - **Textures**: Custom PNG sprites for distraction types
 - **Fonts**: TextMesh Pro for UI elements
@@ -126,7 +125,7 @@ This is a portfolio project, but feel free to fork and experiment! If you have s
 
 ## 📧 Contact
 
-Created by [Abhimanyu Jha] - Learning Unity and game development.
+Created by Abhimanyu Jha - Learning Unity and game development.
 
 ---
 
