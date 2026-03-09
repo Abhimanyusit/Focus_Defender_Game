@@ -50,8 +50,6 @@ Destroy all incoming digital distractions before they reach your desk. If any di
 
 ![Game Over Screen](Screenshots/end.png)
 
-_Add your game screenshots to the `Screenshots/` folder and update the image paths above._
-
 ## 🛠️ Technical Details
 
 - **Engine**: Unity 2021.3+
@@ -87,7 +85,7 @@ Assets/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/focus-defender.git
+   git clone https://github.com/Abhimanyusit/Focus_Defender_Game.git
    ```
 
 2. **Open in Unity**:
@@ -120,11 +118,7 @@ All assets were created or sourced for this educational project.
 
 ## 🎉 Play the Game
 
-This game is also available on **itch.io**: [Focus Defender on itch.io](https://your-itch-page.com)
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This game is also available on **itch.io**: [Focus Defender on itch.io](https://abhi8451.itch.io/focus-defender)
 
 ## 🤝 Contributing
 
@@ -132,8 +126,8 @@ This is a portfolio project, but feel free to fork and experiment! If you have s
 
 ## 📧 Contact
 
-Created by [Your Name] - Learning Unity and game development.
+Created by [Abhimanyu Jha] - Learning Unity and game development.
 
 ---
 
-_Made with ❤️ using Unity - A journey from Unity Essentials to Junior Programmer certification._
+_Made with ❤️ using Unity - A journey from Unity Essentials to Junior Programmer._
