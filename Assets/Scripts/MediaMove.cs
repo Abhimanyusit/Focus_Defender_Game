@@ -4,6 +4,7 @@ public class MediaMove : MonoBehaviour
 {
     GameStartManager gameStartManager;
     private float fallSpeed = 0.5f;
+    private float destroyYPosition = 4.367f;
 
     void Start()
     {
@@ -19,7 +20,7 @@ public class MediaMove : MonoBehaviour
 
         transform.Translate(Vector3.down * fallSpeed * Time.deltaTime);
 
-        if (transform.position.y < 4.367f)
+        if (transform.position.y < destroyYPosition)
         {
             Destroy(gameObject);
 

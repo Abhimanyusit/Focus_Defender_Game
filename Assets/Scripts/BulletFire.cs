@@ -3,6 +3,7 @@ using UnityEngine;
 public class BulletFire : MonoBehaviour
 {
     private float speed = 5.0f;
+    private float zRangeEnd = 2.0f;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -15,7 +16,7 @@ public class BulletFire : MonoBehaviour
     void Update()
     {
         transform.Translate(Vector3.forward * Time.deltaTime * speed);
-        if (transform.position.z < 2.0f)
+        if (transform.position.z < zRangeEnd)
         {
             Destroy(gameObject);
         }
