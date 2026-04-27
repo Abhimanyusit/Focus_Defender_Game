@@ -12,6 +12,8 @@
 !/[Aa]ssets/**/*.meta
 
 
+Assets/Characters/
+
 # /[Aa]ssets/AssetStoreTools*
 
 # TextMesh Pro
