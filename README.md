@@ -43,11 +43,11 @@ Destroy all incoming digital distractions before they reach your desk. If any di
 
 ## 📸 Screenshots
 
-![Study Room Scene](Screenshots/start.png)
+![Study Room Scene](Screenshots/start.png?v=1)
 
-![Gameplay in Action](Screenshots/gameplay.png)
+![Gameplay in Action](Screenshots/gameplay.png?v=1)
 
-![Game Over Screen](Screenshots/end.png)
+![Game Over Screen](Screenshots/end.png?v=1)
 
 ## 🛠️ Technical Details
 
